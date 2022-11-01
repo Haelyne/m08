@@ -1,0 +1,32 @@
+[
+	{
+		"name" : "Haelyn",
+		"type" :"Student",
+		"email":"rahel19kim96@gmail.com",
+		"classes" : [601,608,618]
+	},
+	{
+		"name" : "Jenny",
+		"type" :"Singer",
+		"email":"pb@gmail.com",
+		"classes" : [601,608,617.618]
+	},
+	{
+		"name" : "Lisa",
+		"type" :"Chef",
+		"email":"mg@gmail.com",
+		"classes" : [249,250,369]
+	},
+	{
+		"name" : "Rose",
+		"type" :"Actor",
+		"email":"jt@gmail.com",
+		"classes" : [601,608,618]
+	},
+	{
+		"name" : "Kate",
+		"type" :"Teacher",
+		"email":"mg@gmail.com",
+		"classes" : [249,608,617]
+	}
+]
